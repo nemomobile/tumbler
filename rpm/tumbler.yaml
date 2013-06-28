@@ -50,4 +50,5 @@ SubPackages:
           Tests and tests.xml file for %{name} 
       Requires:
           - python-imaging
+          - dbus-python
 

@@ -43,6 +43,7 @@ Summary:    Files for %{name}
 Group:      Development/Libraries
 Requires:   %{name} = %{version}-%{release}
 Requires:   python-imaging
+Requires:   dbus-python
 
 %description tests
 Tests and tests.xml file for %{name} 
