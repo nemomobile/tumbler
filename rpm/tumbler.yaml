@@ -51,3 +51,4 @@ SubPackages:
       Requires:
           - python-imaging
           - dbus-python
+          - pygobject2
