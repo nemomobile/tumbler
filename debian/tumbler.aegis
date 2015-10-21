@@ -1,6 +1,0 @@
-<aegis>
-  <request>
-    <for path="/usr/lib/tumbler-1/tumblerd" />
-  </request>
-</aegis>
-

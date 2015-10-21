@@ -1,8 +1,0 @@
-usr/lib/tumbler-1/tumblerd
-usr/lib/tumbler-1/plugins/tumbler-quill-thumbnailer.so
-usr/lib/tumbler-1/plugins/cache/tumbler-quill-cache.so
-usr/lib/tumbler-1/plugins/cache/tumbler-cache-plugin.so
-usr/lib/libtumbler-1.so.*
-usr/share/dbus-1/services/org.xfce.Tumbler.Cache1.service
-usr/share/dbus-1/services/org.xfce.Tumbler.Manager1.service
-usr/share/dbus-1/services/org.xfce.Tumbler.Thumbnailer1.service
